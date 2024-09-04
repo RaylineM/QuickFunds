@@ -23,12 +23,6 @@ Para uma visão geral do QuikFunds e suas funcionalidades, assista ao vídeo de 
 ## Interface do Usuário
 
 O QuikFunds possui uma interface de usuário intuitiva, projetada para fornecer uma experiência de gerenciamento financeiro eficiente e agradável.
-
-- **Figura 1**: Tela Inicial.
-- **Figura 2**: Tela Inicial - Modo Escuro.
-- **Figura 3**: Formulário de Finanças.
-- **Figura 4**: Lista de Transações.
-
 ## Funcionalidades
 
 O QuikFunds oferece várias funcionalidades para ajudar você a gerenciar suas finanças com facilidade. Algumas das principais funcionalidades incluem:
@@ -38,13 +32,6 @@ O QuikFunds oferece várias funcionalidades para ajudar você a gerenciar suas f
 - **Gráficos**: Visualize seus dados financeiros por meio de gráficos detalhados para uma melhor compreensão.
 - **Grupos de Compartilhamento**: Crie grupos de compartilhamento para gerenciar finanças em conjunto com amigos ou familiares.
 - **Avaliação de Gastos ao Longo do Tempo**: Monitore seus gastos ao longo do tempo para identificar padrões e tendências.
-
-## Recursos Adicionais
-
-Além das funcionalidades principais, o QuikFunds também oferece vários recursos adicionais para melhorar sua experiência de gerenciamento financeiro:
-
-- **Filtros de Pesquisa**: Encontre rapidamente transações específicas filtrando por data, categoria ou descrição.
-- **Temas Personalizados**: Personalize o aplicativo com temas que se adequam ao seu estilo.
 
 ## Tecnologias Utilizadas
 
