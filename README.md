@@ -18,7 +18,7 @@ Para instalar o QuikFunds, siga as etapas abaixo:
 ## Vídeo de Apresentação
 
 Para uma visão geral do QuikFunds e suas funcionalidades, assista ao vídeo de apresentação abaixo:
-[Vídeo de Apresentação](https://youtu.be/OXpNxZhcMJE?feature=shared)
+[Vídeo de Apresentação](https://youtu.be/1XE0mP511tc?feature=shared)
 
 ## Interface do Usuário
 
